@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[prisma]":{
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
+}
